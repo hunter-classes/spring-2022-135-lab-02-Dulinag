@@ -7,12 +7,11 @@ using namespace std;
 int main(){
 
 
-int c = print_interval(5,10);
+print_interval(5,10);
 
 
 
 
-  cout << c << endl;
 
 
 
